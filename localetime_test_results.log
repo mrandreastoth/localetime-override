@@ -1,0 +1,54 @@
+📝 Running tests...
+✅ PASSED: 2024-01-01 %A → usr_Monday
+✅ PASSED: 2024-01-02 %A → sys_Tuesday
+✅ PASSED: 2024-01-03 %A → usr_Wednesday
+✅ PASSED: 2024-01-04 %A → usr_Thursday
+✅ PASSED: 2024-01-05 %A → péntek (Locale default)
+✅ PASSED: 2024-01-06 %A → sys_Saturday
+✅ PASSED: 2024-01-07 %A → usr_Sunday
+✅ PASSED: 2024-01-01 %a → uMo
+✅ PASSED: 2024-01-02 %a → uTu
+✅ PASSED: 2024-01-03 %a → sWe
+✅ PASSED: 2024-01-04 %a → cs (Locale default)
+✅ PASSED: 2024-01-05 %a → sFr
+✅ PASSED: 2024-01-06 %a → uSa
+✅ PASSED: 2024-01-07 %a → sSu
+✅ PASSED: 2024-01-01 %B → sys_January
+✅ PASSED: 2024-02-01 %B → usr_February
+✅ PASSED: 2024-03-01 %B → usr_March
+✅ PASSED: 2024-04-01 %B → sys_April
+✅ PASSED: 2024-05-01 %B → sys_May
+✅ PASSED: 2024-06-01 %B → sys_June
+✅ PASSED: 2024-07-01 %B → usr_July
+✅ PASSED: 2024-08-01 %B → sys_August
+✅ PASSED: 2024-09-01 %B → sys_September
+✅ PASSED: 2024-10-01 %B → usr_October
+✅ PASSED: 2024-11-01 %B → sys_November
+✅ PASSED: 2024-12-01 %B → december (Locale default)
+📝 Running cache tests...
+✅ PASSED: 2024-01-01 %A → usr_Monday
+✅ PASSED: 2024-01-02 %A → sys_Tuesday
+✅ PASSED: 2024-01-03 %A → usr_Wednesday
+✅ PASSED: 2024-01-04 %A → usr_Thursday
+✅ PASSED: 2024-01-05 %A → péntek (Locale default)
+✅ PASSED: 2024-01-06 %A → sys_Saturday
+✅ PASSED: 2024-01-07 %A → usr_Sunday
+✅ PASSED: 2024-01-01 %a → uMo
+✅ PASSED: 2024-01-02 %a → uTu
+✅ PASSED: 2024-01-03 %a → sWe
+✅ PASSED: 2024-01-04 %a → cs (Locale default)
+✅ PASSED: 2024-01-05 %a → sFr
+✅ PASSED: 2024-01-06 %a → uSa
+✅ PASSED: 2024-01-07 %a → sSu
+✅ PASSED: 2024-01-01 %B → sys_January
+✅ PASSED: 2024-02-01 %B → usr_February
+✅ PASSED: 2024-03-01 %B → usr_March
+✅ PASSED: 2024-04-01 %B → sys_April
+✅ PASSED: 2024-05-01 %B → sys_May
+✅ PASSED: 2024-06-01 %B → sys_June
+✅ PASSED: 2024-07-01 %B → usr_July
+✅ PASSED: 2024-08-01 %B → sys_August
+✅ PASSED: 2024-09-01 %B → sys_September
+✅ PASSED: 2024-10-01 %B → usr_October
+✅ PASSED: 2024-11-01 %B → sys_November
+✅ PASSED: 2024-12-01 %B → december (Locale default)
