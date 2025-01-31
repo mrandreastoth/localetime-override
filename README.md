@@ -1,8 +1,21 @@
 # localetime-override
 
-## WARNING: Potential System Instability
+## Current Status: **Proof of Concept Only**
 
-🚨 **WARNING:** Installing `localetime-override` at a system level can cause **various deadlocks** and even a **kernel panic on boot**. **Use at your own risk!** The current implementation is not yet stable for global deployment. If you choose to install it, ensure you understand the risks and have a way to recover your system if something goes wrong. **I take no liability for any damage or system instability caused by this library.**
+### ⚠️ WARNING: THIS PROJECT IS INCOMPLETE ⚠️
+
+- The current implementation **only handles a small subset of date format specifiers** (i.e., `%A`, `%a`, `%B`, `%b`).
+- The complete format specification **is not yet implemented**.
+- This project **should not** be considered a complete solution at this stage.
+- It is intended as a **technical proof of concept**, demonstrating the feasibility of overriding localized date strings.
+
+### ⚠️ SYSTEM-LEVEL INSTALLATION MAY CAUSE DEADLOCKS AND KERNEL PANICS ⚠️
+
+- **Installing this at the system level (via `/etc/ld.so.preload`) can lead to severe issues, including:**
+  - Deadlocks when modifying system files.
+  - Kernel panic on boot, rendering the system unbootable.
+  - Inability to access or modify certain files due to unexpected dependencies.
+- **Use this software at your own risk.** The author takes **no liability** for any damage caused.
 
 ---
 
